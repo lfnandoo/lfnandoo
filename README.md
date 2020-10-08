@@ -6,10 +6,10 @@ My name is Luiz Fernando, i'm **Frontend developer**.
 -  ✨ All Works and projects developed by me, [meet now](https://github.com/lfnandoo/all-works)
 
 <a href="https://github.com/lfnandoo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lfnandoo&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lfnandoo&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/lfnandoo/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnandoo&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnandoo&theme=dracula" />
 </a>
 
 ## Contact
