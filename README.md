@@ -1,7 +1,7 @@
 ## Hi 👋, 
 My name is Luiz Fernando, i'm **Frontend developer**. 
 
--  ⚡ Techs: **ReactJS, NodeJS, Javascript, Typescript**
+-  ⚡ Techs: **NextJS, ReactJS, NodeJS, Javascript, Typescript**
 
 -  ✨ All Works and projects developed by me, [meet now](https://github.com/lfnandoo/all-works)
 
