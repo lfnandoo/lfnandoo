@@ -1,7 +1,7 @@
 ## Hi 👋, 
 My name is Luiz Fernando, i'm **Frontend developer**. 
 
--  ⚡ Techs: <div align="center"> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+-  ## ⚡ Techs: <div align="center"> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJs-%231572B6?style=flat-square&logo=react)
